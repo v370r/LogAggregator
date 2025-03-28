@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SonatusApplication<sonatus>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.log.sonatus.SonatusApplication",
+            "projectName": "sonatus",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
