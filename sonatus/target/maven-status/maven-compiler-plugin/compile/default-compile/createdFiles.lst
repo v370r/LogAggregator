@@ -1,0 +1,7 @@
+com\log\sonatus\SonatusApplication.class
+com\log\sonatus\model\LogEntry$LogEntryBuilder.class
+com\log\sonatus\scheduler\LogCleanupScheduler.class
+com\log\sonatus\controller\LogController.class
+com\log\sonatus\model\LogEntry.class
+com\log\sonatus\service\LogEntryService.class
+com\log\sonatus\repository\LogEntryRepository.class
