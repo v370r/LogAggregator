@@ -1,8 +1,5 @@
 HELP.md
 !.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/sonatus-*.jar
-
-!**/src/test/**/target/
 
 ### STS ###
 .apt_generated
